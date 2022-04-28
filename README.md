@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @DeanMitco
-- 👀 I’m interested in PC's
-- 🌱 I’m currently learning how to become a better version of myself
-- 💞️ I’m looking to collaborate on Programming and just life advice
+- 👋 Hi, I’m Dean Mitco
+- 👀 I’m interested in Software development and Frontend Web development
+- 🌱 I’m currently learning how to think Algorithmic
+- 💞️ I’m looking forward to optimize my code, aswell as making it more readable
+- Always ready to get advice on any of my code
 
 <!---
 DeanMitco/DeanMitco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
