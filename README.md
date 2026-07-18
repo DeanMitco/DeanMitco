@@ -1,4 +1,4 @@
-<h1 align="center">Hello Dean-Silviu Mitco</h1>
+<h1 align="center">Hello, my name is Dean-Silviu Mitco</h1>
 <h3 align="center">I'm a Backend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deanmitco&label=Profile%20views&color=0e75b6&style=flat" alt="deanmitco" /> </p>
